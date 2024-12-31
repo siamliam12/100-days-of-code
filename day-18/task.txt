@@ -1,0 +1,7 @@
+Build an authentication and authorization system in Django
+-Task Status: on going
+- tasks:
+    - token based authentication
+    - oauth
+    - role based authentication
+    - multi factor authentication
